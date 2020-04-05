@@ -1,6 +1,6 @@
 # Computer-Graphics
-Youtube Tutorial Video Code for Python graphics library- 'graphics.py' ____________________________________   
+Youtube Tutorial Video Code for Python graphics library- 'graphics.py'  
 
 ### Watch the Tutorial Video to Know more - 
 
-[![]({image-url})]({https://www.youtube.com/watch?v=DEqkmlIVGoU} "Fun with graphics.py")
+[!["Fun with graphics.py"](https://img.youtube.com/vi/DEqkmlIVGoU/0.jpg)](https://www.youtube.com/watch?v=DEqkmlIVGoU)
